@@ -10,40 +10,21 @@ Welcome to my portfolio repository! I am a final-year Artificial Intelligence & 
 - 🤖 Interested in Artificial Intelligence, Machine Learning, Data Science, Computer Vision, and Research
 - 🏆 Academic Topper Award Recipient
   
-## 🔗 Portfolio
+## 📫 Connect With Me
 
-Visit my portfolio website:
+- LinkedIn: https://www.linkedin.com/in/sunandamanne
+- GitHub: https://github.com/YOUR_USERNAME
+- Portfolio: https://sunandamanne.lovable.app
 
-**https://sunandamanne.lovable.app**
+## 🛠️ Tech Stack
 
-## 🛠️ Technical Skills
-
-### Programming Languages
-- Python
-- Java
-- SQL
-- Kotlin
-
-### AI & Machine Learning
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Data Analysis
-- Statistical Modeling
-
-### Data Science
-- Pandas
-- NumPy
-- Scikit-Learn
-- Power BI
-- Data Visualization
-
-### Tools & Platforms
-- Git & GitHub
-- Google Cloud
-- Oracle Cloud Infrastructure (OCI)
-- Firebase
-- Android Studio
+| Domain | Skills |
+|---------|---------|
+| Programming | Python, Java, SQL, Kotlin |
+| AI & ML | Machine Learning, Deep Learning, Computer Vision, NLP |
+| Data Analytics | Pandas, NumPy, Scikit-Learn, Power BI |
+| Databases | MySQL, SQLite, Firebase |
+| Cloud & Tools | GCP, OCI, Git, GitHub, Android Studio, Jupyter, Colab |
 
 ## 📌 Featured Projects
 
@@ -68,13 +49,6 @@ Real-time maternal and fetal monitoring system featuring:
 - Fetal Movement Monitoring
 - AI-Based Health Assessment
 
-### ✈️ AI Flight Booking Platform
-Google Hackathon Top-5 Project:
-- AI-Powered Recommendations
-- Flight Search & Booking
-- Real-Time Flight Tracking
-- Analytics Dashboard
-
 ## 💼 Experience
 
 ### Research Contributor
@@ -97,11 +71,7 @@ Google Hackathon Top-5 Project:
 - Infosys Springboard Certifications
 - Certified Data Analyst
 
-## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/sunandamanne
-- GitHub: https://github.com/YOUR_USERNAME
-- Portfolio: https://sunandamanne.lovable.app
 
 ---
 
