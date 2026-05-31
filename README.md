@@ -13,7 +13,6 @@ Welcome to my portfolio repository! I am a final-year Artificial Intelligence & 
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/sunandamanne
-- GitHub: https://github.com/YOUR_USERNAME
 - Portfolio: https://sunandamanne.lovable.app
 
 ## 🛠️ Technical Skills
@@ -56,19 +55,11 @@ Real-time maternal and fetal monitoring system featuring:
 
 ## 💼 Experience
 
-### Research Contributor
-**Insight Driven Research (IDR)**
-- Statistical Modeling
-- Behavioral Data Analysis
-- AI Adoption Research
-
-### AI/ML Intern
-**Bluestock Fintech**
-- ETL Workflows
-- Data Cleaning
-- Database Design
-- Power BI Dashboards
-
+| Role | Organization | Duration | Highlights |
+|--------|-------------|-----------|-----------|
+| AI/ML Intern | DRDO (Defence Research & Development Organisation) | Aug 2025 – Jan 2026 | Fine-tuned multilingual NLP models (mBART, mBERT), optimized inference through quantization and pruning, and built large-scale ML pipelines processing 500K+ records/day. |
+| Research Contributor | Insight Driven Research | Aug 2025 – Nov 2025 | Conducted statistical modeling, clustering analysis, and dashboard development to derive behavioral insights and support enterprise decision-making. |
+| SDE Intern | Bluestock Fintech | Dec 2024 – Jan 2025 | Developed ETL pipelines, automated data validation workflows, and built Power BI dashboards for financial analytics and reporting. |
 ## 📜 Certifications
 
 - Oracle Cloud Infrastructure AI Foundations Associate
