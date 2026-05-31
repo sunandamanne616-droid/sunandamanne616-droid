@@ -16,15 +16,20 @@ Welcome to my portfolio repository! I am a final-year Artificial Intelligence & 
 - GitHub: https://github.com/YOUR_USERNAME
 - Portfolio: https://sunandamanne.lovable.app
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 | Domain | Skills |
-|---------|---------|
+|----------|----------|
 | Programming | Python, Java, SQL, Kotlin |
-| AI & ML | Machine Learning, Deep Learning, Computer Vision, NLP |
-| Data Analytics | Pandas, NumPy, Scikit-Learn, Power BI |
+| AI & Machine Learning | Machine Learning, Deep Learning, Computer Vision, Predictive Analytics, Feature Engineering, Model Evaluation |
+| Libraries & Frameworks | Scikit-Learn, Pandas, NumPy, OpenCV, TensorFlow, Keras |
+| Data Analytics | Data Cleaning, Data Wrangling, Exploratory Data Analysis (EDA), Statistical Analysis, Power BI |
 | Databases | MySQL, SQLite, Firebase |
-| Cloud & Tools | GCP, OCI, Git, GitHub, Android Studio, Jupyter, Colab |
+| Cloud & Platforms | Google Cloud Platform (GCP), Oracle Cloud Infrastructure (OCI), Firebase |
+| Development Tools | Git, GitHub, Android Studio, VS Code, Jupyter Notebook, Google Colab |
+| Visualization | Power BI, Matplotlib, Seaborn, Excel Dashboards |
+| Research & Analytics | Statistical Modeling, Hypothesis Testing, Behavioral Data Analysis, ETL Pipelines |
+| Operating Systems | Windows, Linux, macOS |
 
 ## 📌 Featured Projects
 
