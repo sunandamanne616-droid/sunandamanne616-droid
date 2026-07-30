@@ -1,74 +1,116 @@
-# 🚀 Sunanda Manne – AI/ML & Data Science Portfolio
+📊 Sunanda Manne – Data Analytics Portfolio
 
-Welcome to my portfolio repository! I am a final-year Artificial Intelligence & Machine Learning student passionate about building AI-powered solutions, data-driven applications, and impactful real-world projects.
+Welcome! I'm a Data Analyst passionate about transforming raw data into actionable business insights through SQL, Python, Power BI, Tableau, and statistical analysis.
 
-## 👩‍💻 About Me
+I enjoy solving business problems with data, building dashboards, automating reporting, and uncovering trends that support data-driven decision making.
 
-- 🎓 B.E. in Artificial Intelligence & Machine Learning
-- 📍 Karnataka, India
-- 📊 CGPA: 9.1/10
-- 🤖 Interested in Artificial Intelligence, Machine Learning, Data Science, Computer Vision, and Research
-- 🏆 Academic Topper Award Recipient
-  
-## 📫 Connect With Me
+👩‍💻 About Me
 
-- LinkedIn: https://www.linkedin.com/in/sunandamanne
-- Portfolio: https://sunandamanne.lovable.app
+🎓 B.E. in Artificial Intelligence & Machine Learning (2026)
 
-## 🛠️ Technical Skills
+📍 Bengaluru, Karnataka, India
 
-| Domain | Skills |
-|----------|----------|
-| Programming | Python, Java, SQL, Kotlin |
-| AI & Machine Learning | Machine Learning, Deep Learning, Computer Vision, Predictive Analytics, Feature Engineering, Model Evaluation |
-| Libraries & Frameworks | Scikit-Learn, Pandas, NumPy, OpenCV, TensorFlow, Keras |
-| Data Analytics | Data Cleaning, Data Wrangling, Exploratory Data Analysis (EDA), Statistical Analysis, Power BI |
-| Databases | MySQL, SQLite, Firebase |
-| Cloud & Platforms | Google Cloud Platform (GCP), Oracle Cloud Infrastructure (OCI), Firebase |
-| Development Tools | Git, GitHub, Android Studio, VS Code, Jupyter Notebook, Google Colab |
-| Visualization | Power BI, Matplotlib, Seaborn, Excel Dashboards |
-| Research & Analytics | Statistical Modeling, Hypothesis Testing, Behavioral Data Analysis, ETL Pipelines |
-| Operating Systems | Windows, Linux, macOS |
+📊 CGPA: 9.15/10
 
-## 📌 Featured Projects
+💼 Data Analytics | Business Intelligence | SQL | Python | Power BI | Tableau
 
-### 🤖 Automated College Assistant Robot
-AI-powered attendance and assistance robot using:
-- Face Recognition
-- OpenCV
-- Python
-- Raspberry Pi
+📈 Interested in Data Analytics, Business Intelligence, Product Analytics, and Decision Science
 
-### 🩺 MediPredict AI
-Medical diagnosis support system capable of predicting:
-- Heart Disease
-- Kidney Disease
-- Pneumonia
-- Breast Cancer
+📫 Connect With Me
+💼 LinkedIn: www.linkedin.com/in/sunandamanne
+🌐 Portfolio: https://sunandamanne.lovable.app
+📧 Email: sunandamanne616@gmail.com
+🛠 Technical Skills
+Category	Skills
+Languages	SQL, Python, Java
+Data Analytics	Data Cleaning, Data Wrangling, Exploratory Data Analysis (EDA), Statistical Analysis, Root Cause Analysis, KPI Tracking
+Business Intelligence	Power BI, Tableau, Dashboard Development, Data Visualization
+Python Libraries	Pandas, NumPy, Matplotlib, Scikit-learn
+Databases	MySQL, SQLite
+Excel	Pivot Tables, XLOOKUP, INDEX-MATCH, Power Query, Charts
+Statistics	Hypothesis Testing, Regression, Clustering, A/B Testing
+Data Engineering	ETL Pipelines, SQLAlchemy, Data Validation
+Tools	Git, GitHub, Jupyter Notebook, VS Code, Google Colab
+Cloud	Oracle Cloud Infrastructure (OCI), Google Cloud Platform (GCP)
+💼 Professional Experience
+Data Analytics Intern (AI/ML)
 
-### 🤰 Smart Pregnancy Monitoring Belt
-Real-time maternal and fetal monitoring system featuring:
-- Sensor Integration
-- Health Analytics
-- Fetal Movement Monitoring
-- AI-Based Health Assessment
+DRDO – Defence Research & Development Organisation
+Aug 2025 – Jan 2026
 
-## 💼 Experience
+Processed and validated 2M+ multilingual records for analytics workflows.
+Built experiment tracking reports to monitor model performance.
+Cleaned and prepared datasets supporting large-scale analytics.
+Reported performance metrics and business insights to project teams.
+Research Contributor
 
-| Role | Organization | Duration | Highlights |
-|--------|-------------|-----------|-----------|
-| AI/ML Intern | DRDO (Defence Research & Development Organisation) | Aug 2025 – Jan 2026 | Fine-tuned multilingual NLP models (mBART, mBERT), optimized inference through quantization and pruning, and built large-scale ML pipelines processing 500K+ records/day. |
-| Research Contributor | Insight Driven Research | Aug 2025 – Nov 2025 | Conducted statistical modeling, clustering analysis, and dashboard development to derive behavioral insights and support enterprise decision-making. |
-| SDE Intern | Bluestock Fintech | Dec 2024 – Jan 2025 | Developed ETL pipelines, automated data validation workflows, and built Power BI dashboards for financial analytics and reporting. |
-## 📜 Certifications
+Insight Driven Research
+Aug 2025 – Nov 2025
 
-- Oracle Cloud Infrastructure AI Foundations Associate
-- Google Data Analytics Professional Certificate
-- Infosys Springboard Certifications
-- Certified Data Analyst
+Performed statistical analysis on 1,200+ survey responses.
+Applied regression and clustering techniques to identify behavioral segments.
+Built Tableau dashboards for executive reporting.
+Delivered actionable insights that supported business strategy.
+Data Analytics Intern
 
+Bluestock Fintech
+Dec 2024 – Jan 2025
 
+Built SQL and Python ETL pipelines processing 50K+ daily records.
+Automated reporting workflows, reducing manual effort.
+Developed Power BI dashboards for financial KPIs.
+Performed root cause analysis to improve data quality.
+📌 Featured Projects
+📊 Healthcare Analytics Dashboard
+Data Cleaning
+SQL
+Python
+Power BI
+Statistical Analysis
 
----
+Business insights from 10,000+ healthcare records through interactive dashboards.
 
-⭐ If you like my work, feel free to star the repository and connect with me!
+📈 Financial Analytics Dashboard
+SQL
+ETL
+Power BI
+KPI Tracking
+
+Interactive dashboards for revenue, trading volume, margins, and business performance.
+
+👥 Customer Behavior Analytics
+Python
+Pandas
+Tableau
+Regression
+Clustering
+
+Behavioral analytics on survey data with customer segmentation and trend analysis.
+
+📉 Attendance Data Analytics
+SQL
+Python
+Dashboard
+Reporting
+
+Automated attendance analytics and reporting across 1,200+ students.
+
+📜 Certifications
+Oracle Cloud Infrastructure AI Foundations Associate
+Google Data Analytics Professional Certificate
+IBM Python for Data Science
+McKinsey Forward Program
+🎯 Currently Learning
+Advanced SQL
+Product Analytics
+Business Intelligence
+Experiment Analysis
+Data Modeling
+Dashboard Design
+📈 GitHub Stats
+SQL Projects
+Power BI Dashboards
+Tableau Dashboards
+Python Data Analysis
+ETL Pipelines
+Business Analytics Case Studies
