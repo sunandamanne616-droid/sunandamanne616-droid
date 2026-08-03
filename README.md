@@ -2,25 +2,16 @@
 
 # 👋 Hi, I'm Sunanda Manne
 
-### 📊 Data Analyst | Business Intelligence | SQL | Python | Power BI | Tableau
+### 📊 Data Analyst | SQL | Python | Power BI | Tableau | Business Intelligence
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C896&center=true&vCenter=true&width=600&lines=Data+Analyst;Business+Intelligence+Enthusiast;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Turning+Raw+Data+into+Actionable+Insights" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C896&center=true&vCenter=true&width=700&lines=Data+Analyst;Business+Intelligence+Enthusiast;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Turning+Raw+Data+into+Actionable+Insights;Always+Learning+Something+New" alt="Typing SVG" />
 
-📍 Bengaluru, Karnataka, India
+<img src="https://komarev.com/ghpvc/?username=sunandamanne616-droid&style=for-the-badge&color=0e75b6" />
 
-🎓 B.E. Artificial Intelligence & Machine Learning (2026)
-
-🏆 CGPA: **9.15/10**
-
-💼 **3 Technical Internships** (DRDO | Insight Driven Research | Bluestock)
-
-📈 Passionate about solving business problems through data-driven decision making.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sunandamanne)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://sunandamanne.lovable.app)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:sunandamanne616@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sunanda-manne-98536032a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://sunandamanne.lovable.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sunandamanne616-droid)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:sunandamanne616@gmail.com)
 
 </div>
 
@@ -28,211 +19,145 @@
 
 # 🚀 About Me
 
-I am a final-year Artificial Intelligence & Machine Learning student with practical experience in **Data Analytics, Business Intelligence, SQL, Python, Power BI, Tableau, ETL pipelines, and Statistical Analysis**.
+🎓 Final Year **B.E. Artificial Intelligence & Machine Learning**
 
-Through internships at **DRDO**, **Insight Driven Research**, and **Bluestock Fintech**, I have worked on:
+📍 Bengaluru, Karnataka, India
 
-- 📊 Dashboard Development
-- 📈 KPI Tracking
-- 🧹 Data Cleaning & Preprocessing
-- 🗄 SQL Querying
-- 🔄 ETL Automation
-- 📉 Statistical Analysis
-- 🔍 Root Cause Analysis
-- 📌 Business Intelligence Reporting
+🏆 **CGPA: 9.15 / 10**
 
-I enjoy converting complex datasets into meaningful insights that help businesses make informed decisions.
+💼 Completed internships at:
+
+- 🛡 DRDO
+- 📈 Insight Driven Research
+- 💹 Bluestock Fintech
+
+I enjoy solving business problems through **SQL, Python, Power BI, Tableau, Excel, ETL pipelines, dashboard development, and business intelligence**.
 
 ---
 
 # 💻 Tech Stack
 
-### Programming Languages
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
 
----
-
-### Data Analytics
+### Analytics
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn)
-
----
-
-### Business Intelligence
+### BI
 
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
-
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
-
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
-
----
 
 ### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
-
----
 
 ### Tools
 
-Git • GitHub • Jupyter Notebook • VS Code • Google Colab
+Git • GitHub • VS Code • Jupyter Notebook • Google Colab
 
 ---
 
 # 📊 Core Skills
 
 - SQL
-- Advanced Excel
+- Python
 - Power BI
 - Tableau
-- Python
+- Excel
 - Pandas
 - NumPy
-- Data Cleaning
-- Data Wrangling
 - ETL Pipelines
 - Dashboard Development
+- KPI Reporting
 - Business Intelligence
-- Data Visualization
-- Exploratory Data Analysis (EDA)
+- Exploratory Data Analysis
+- Data Cleaning
 - Statistical Analysis
-- Hypothesis Testing
 - Regression Analysis
 - Clustering
-- Root Cause Analysis (RCA)
-- KPI Analysis
-- Reporting Automation
+- Root Cause Analysis
 
 ---
 
-# 💼 Professional Experience
+# 💼 Experience
 
-## 🛡 AI/ML Intern
-### Defence Research & Development Organisation (DRDO)
+## 🛡 DRDO – AI/ML Intern
 
-**Aug 2025 – Jan 2026**
-
-- Processed and validated **2M+ multilingual records**
-- Built experiment tracking dashboards
-- Automated reporting workflows
-- Cleaned and prepared datasets
-- Visualized model performance metrics
-- Supported analytics reporting
+- Processed 2M+ multilingual records
+- Built experiment dashboards
+- Automated analytics workflows
+- Supported model evaluation
 
 ---
 
-## 📈 Research Contributor
-### Insight Driven Research (New York)
+## 📈 Insight Driven Research
 
-**Aug 2025 – Nov 2025**
-
-- Analyzed **1,200+ survey responses**
-- Applied Regression & K-Means Clustering
-- Built Tableau dashboards
-- Conducted statistical analysis
-- Generated business insights
-- Presented findings to stakeholders
+- Analyzed 1200+ survey responses
+- Regression Analysis
+- K-Means Clustering
+- Tableau dashboards
+- Business insights
 
 ---
 
-## 💹 SDE Intern
-### Bluestock Fintech
+## 💹 Bluestock Fintech
 
-**Dec 2024 – Jan 2025**
-
-- Built Python ETL pipelines
-- Processed **50K+ daily records**
+- Python ETL pipelines
 - Automated reporting
-- Developed Power BI dashboards
-- Improved data quality through Root Cause Analysis
+- Power BI dashboards
+- Processed 50K+ daily records
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Featured Projects
 
-## 🏥 Healthcare Analytics Platform
+### 📊 Rapido Analytics Dashboard
 
-**Tech Stack**
-
-Python • SQL • Flask • Power BI • Pandas
-
-### Highlights
-
-- Processed 10,000+ healthcare records
-- Dashboard reporting
-- Statistical Analysis
-- Feature Engineering
-- Predictive Analytics
-
----
-
-## 💰 Financial Analytics Dashboard
-
-**Tech Stack**
-
-SQL • Python • Power BI
-
-### Highlights
-
+- Power BI
+- DAX
 - KPI Dashboard
-- Revenue Analytics
-- Automated Reporting
-- ETL Pipeline
 - Business Insights
 
 ---
 
-## 📈 Customer Segmentation Analysis
+### 📈 Excel Sales Dashboard
 
-**Tech Stack**
+Repository:
 
-Python • Tableau • Pandas
-
-### Highlights
-
-- Regression Analysis
-- Customer Segmentation
-- Statistical Modeling
-- Interactive Dashboard
+https://github.com/sunandamanne616-droid/Excel-Sales-Dashboard-Analysis
 
 ---
 
-## 🎓 Attendance Analytics Dashboard
+### 🤖 AI Face Recognition Attendance System
 
-**Tech Stack**
+Repository:
 
-Python • SQL • Power BI
+https://github.com/sunandamanne616-droid/AI-ML-PDA-ATTENDENCE-SYSTEM
 
-### Highlights
+---
 
-- Automated Attendance Reporting
-- Dashboard
-- Data Visualization
-- Performance Analytics
+### 🏥 MediPredict AI
+
+Healthcare analytics platform using Python and Machine Learning.
 
 ---
 
 # 📜 Certifications
 
-- Oracle Cloud Infrastructure AI Foundations Associate
 - Google Data Analytics Professional Certificate
+- Oracle Cloud AI Foundations
 - IBM Python for Data Science
 - McKinsey Forward Program
-- Infosys Springboard Certifications
+- Infosys Springboard
 
 ---
 
@@ -240,25 +165,26 @@ Python • SQL • Power BI
 
 - Advanced SQL
 - Product Analytics
-- Business Intelligence
-- A/B Testing
-- Data Modeling
 - Snowflake
-- BigQuery
 - dbt
+- BigQuery
 - Advanced Dashboard Design
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sunandamanne616-droid&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunandamanne616-droid&layout=compact&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sunandamanne616-droid&theme=tokyonight"/>
 
 </div>
 
@@ -268,32 +194,58 @@ Python • SQL • Power BI
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sunandamanne616-droid&theme=tokyonight&column=7"/>
 
 </div>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sunandamanne616-droid&theme=tokyo-night"/>
 
 </div>
 
 ---
 
-# 🤝 Let's Connect
+# 🐍 Contribution Snake
+
+> Configure a GitHub Action to generate this image automatically.
+
+```md
+![Snake animation](https://raw.githubusercontent.com/sunandamanne616-droid/sunandamanne616-droid/output/github-contribution-grid-snake.svg)
+```
+
+---
+
+# 🎯 Goals for 2026
+
+- 🚀 Land a Data Analyst role
+- 📊 Build 10+ analytics projects
+- ☁ Learn Snowflake & BigQuery
+- 📈 Master Power BI & SQL
+- 🌍 Pursue a Master's in Data Science
+
+---
+
+# 📬 Connect With Me
 
 <div align="center">
 
-📧 **Email:** sunandamanne616@gmail.com
+📧 **Email:**  
+**sunandamanne616@gmail.com**
 
-💼 **LinkedIn:** https://www.linkedin.com/in/sunandamanne
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/sunanda-manne-98536032a/
 
-🌐 **Portfolio:** https://sunandamanne.lovable.app
+🌐 **Portfolio:**  
+https://sunandamanne.lovable.app/
 
-⭐ Feel free to explore my repositories, connect with me, and collaborate on Data Analytics, Business Intelligence, and Data Science projects.
+💻 **GitHub:**  
+https://github.com/sunandamanne616-droid
+
+⭐ Thanks for visiting my profile!
 
 </div>
